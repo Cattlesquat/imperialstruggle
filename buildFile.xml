@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<VASSAL.build.GameModule ModuleOther1="Includes Second Printing Graphics" ModuleOther2="" VassalVersion="3.6.11-SNAPSHOT" description="The Global Rivalry - Britain and France - 1697-1798" name="Imperial Struggle" nextPieceSlotId="2176" version="3.0">
+<VASSAL.build.GameModule ModuleOther1="Includes Second Printing Graphics" ModuleOther2="" VassalVersion="3.6.11-SNAPSHOT" description="The Global Rivalry - Britain and France - 1697-1798" name="Imperial Struggle" nextPieceSlotId="2196" version="3.0">
     <VASSAL.build.module.BasicCommandEncoder/>
     <VASSAL.build.module.Documentation>
         <VASSAL.build.module.documentation.AboutScreen fileName="Splash.jpg" title="About Module"/>
@@ -521,33 +521,33 @@
                     </VASSAL.build.module.map.boardPicker.board.mapgrid.Zone>
                     <VASSAL.build.module.map.boardPicker.board.mapgrid.Zone highlightProperty="" locationFormat="$gridLocation$" name="India" path="2540,2702;2527,3297;4250,3297;4248,3027;4119,2813;4121,2489;5091,2491;5091,2176;4649,2164;4581,1997;4506,1874;4326,1799;4322,1660;4099,1484;3835,1400;3617,1356;3401,1408;3400,1512;3057,1511;2814,1696;2646,1913;2535,1995;2446,2352;2453,2519" useHighlight="false" useParentGrid="false">
                         <VASSAL.build.module.map.boardPicker.board.RegionGrid fontsize="9" snapto="true" visible="false">
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Maratha (Local Alliance: 2)" originx="3661" originy="1531"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Raids &amp; Incursions (Advantage)" originx="3480" originy="1729"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="West Bengal (Cotton: 2)" originx="3699" originy="1798"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Silk (Advantage)" originx="3613" originy="1982"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Plassey (Cotton: 3)" originx="3947" originy="1657"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Chandernagore (Territory)" originx="4164" originy="1845"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Hooghly River (Naval)" originx="4138" originy="2052"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Malacca Route (Spice: 3)" originx="4584" originy="2298"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Calcutta (Territory)" originx="4223" originy="2295"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Midnapore (Cotton: 3)" originx="3814" originy="2154"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Kurpa (Cotton: 2)" originx="3190" originy="2243"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Arcot (Fort: 2)" originx="3376" originy="2396"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Vellore (Cotton: 2)" originx="3166" originy="2492"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Kanchipuram (Spice: 2)" originx="3624" originy="2633"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Madras (Territory)" originx="3994" originy="2529"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Pondicherry (Territory)" originx="3988" originy="2864"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Karaikal (Cotton: 3)" originx="3941" originy="3105"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Vandavasi (Fort: 4)" originx="3585" originy="2915"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Tiruchirappalli (Spice: 2)" originx="3299" originy="3020"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Textiles (Advantage)" originx="3484" originy="3162"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Mysore (Local Alliance: 2)" originx="2880" originy="3052"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Power Struggle (Advantage)" originx="3142" originy="3168"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Calicut (Spice: 3)" originx="2737" originy="2738"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Malabar Coast (Naval)" originx="2574" originy="2491"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Mangalore (Spice: 2)" originx="2631" originy="2224"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Nizam (Local Alliance: 2)" originx="2880" originy="2464"/>
-                            <VASSAL.build.module.map.boardPicker.board.Region name="Separatist Wars (Advantage)" originx="3054" originy="2711"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Maratha (Local Alliance: 2)" originx="3663" originy="1528"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Raids &amp; Incursions (Advantage)" originx="3483" originy="1723"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="West Bengal (Cotton: 2)" originx="3701" originy="1802"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Silk (Advantage)" originx="3614" originy="1975"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Plassey (Cotton: 3)" originx="3948" originy="1668"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Chandernagore (Territory)" originx="4166" originy="1843"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Hooghly River (Naval)" originx="4140" originy="2060"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Malacca Route (Spice: 3)" originx="4584" originy="2304"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Calcutta (Territory)" originx="4227" originy="2293"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Midnapore (Cotton: 3)" originx="3815" originy="2160"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Kurpa (Cotton: 2)" originx="3191" originy="2252"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Arcot (Fort: 2)" originx="3376" originy="2408"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Vellore (Cotton: 2)" originx="3165" originy="2499"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Kanchipuram (Spice: 2)" originx="3624" originy="2639"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Madras (Territory)" originx="3994" originy="2525"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Pondicherry (Territory)" originx="3992" originy="2865"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Karaikal (Cotton: 3)" originx="3942" originy="3110"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Vandavasi (Fort: 4)" originx="3585" originy="2925"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Tiruchirappalli (Spice: 2)" originx="3304" originy="3025"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Textiles (Advantage)" originx="3485" originy="3151"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Mysore (Local Alliance: 2)" originx="2882" originy="3048"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Power Struggle (Advantage)" originx="3146" originy="3162"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Calicut (Spice: 3)" originx="2741" originy="2741"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Malabar Coast (Naval)" originx="2574" originy="2498"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Mangalore (Spice: 2)" originx="2634" originy="2230"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Nizam (Local Alliance: 2)" originx="2882" originy="2461"/>
+                            <VASSAL.build.module.map.boardPicker.board.Region name="Separatist Wars (Advantage)" originx="3053" originy="2708"/>
                             <VASSAL.build.module.map.boardPicker.board.Region name="India Award" originx="2991" originy="1869"/>
                         </VASSAL.build.module.map.boardPicker.board.RegionGrid>
                     </VASSAL.build.module.map.boardPicker.board.mapgrid.Zone>
@@ -1107,65 +1107,86 @@
                 </VASSAL.build.module.map.SetupStack>
             </VASSAL.build.module.folder.MapSubFolder>
             <VASSAL.build.module.folder.MapSubFolder desc="" name="India">
-                <VASSAL.build.module.map.SetupStack location="Karaikal Market [3]" name="Karaikal" owningBoard="Map" useGridLocation="false" x="3942" y="3099">
-                    <VASSAL.build.widget.PieceSlot entryName="No Flag" gpid="1340" height="64" width="75">+/null/prototype;Flag_India	PROP;OldFlag;true,1,4,false;:66\,130:P\,{Flag},:70\,130:P\,{Flag},:85\,130:P\,{Flag},:82\,130:P\,{Flag};\	PROP;Flag;true,1,4,false;British Flag:66\,130:P\,2,French Flag:70\,130:P\,3,USA Flag:85\,130:P\,4,Remove Flag:82\,130:P\,1;\\	prototype;Cotton\\\	piece;;;Map Space.png;/	3\	3\\	\\\	null;0;0;1340;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.module.map.SetupStack location="Karaikal (Cotton: 3)" name="" owningBoard="Map" useGridLocation="true" x="3941" y="3105">
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="1340" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_India\	prototype;Cotton\\	prototype;Market\\\	piece;;;;/3	\	\\	\\\	null;0;0;1340;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Pondicherry Territory [1]" name="Pondicherry" owningBoard="Map" useGridLocation="false" x="3991" y="2862">
-                    <VASSAL.build.widget.PieceSlot entryName="No Flag" gpid="1341" height="64" width="75">+/null/hideCmd;No Conflict on Forts;Hide;;57402\,0\,Conflict	prototype;Flag_India\	PROP;OldFlag;true,1,4,false;:66\,130:P\,{Flag},:70\,130:P\,{Flag},:85\,130:P\,{Flag},:82\,130:P\,{Flag};\\	PROP;Flag;true,1,4,false;British Flag:66\,130:P\,2,French Flag:70\,130:P\,3,USA Flag:85\,130:P\,4,Remove Flag:82\,130:P\,1;\\\	piece;;;Map Space.png;/	\	3\\	3\\\	null;0;0;1341;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.module.map.SetupStack location="Plassey (Cotton: 3)" name="" owningBoard="Map" useGridLocation="true" x="3947" y="1657">
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2176" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_India\	prototype;Cotton\\	prototype;Market\\\	piece;;;;/3	\	\\	\\\	null;0;0;2176;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Chandernagore Territory [1]" name="Chandernagore" owningBoard="Map" useGridLocation="false" x="4164" y="1839">
-                    <VASSAL.build.widget.PieceSlot entryName="No Flag" gpid="1342" height="64" width="75">+/null/hideCmd;No Conflict on Forts;Hide;;57402\,0\,Conflict	prototype;Flag_India\	PROP;OldFlag;true,1,4,false;:66\,130:P\,{Flag},:70\,130:P\,{Flag},:85\,130:P\,{Flag},:82\,130:P\,{Flag};\\	PROP;Flag;true,1,4,false;British Flag:66\,130:P\,2,French Flag:70\,130:P\,3,USA Flag:85\,130:P\,4,Remove Flag:82\,130:P\,1;\\\	piece;;;Map Space.png;/	\	3\\	3\\\	null;0;0;1342;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.module.map.SetupStack location="Pondicherry (Territory)" name="" owningBoard="Map" useGridLocation="true" x="3988" y="2864">
+                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="1341" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_India\	prototype;Territory\\	piece;;;;/3	\	\\	null;0;0;1341;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Plassey Market [3]" name="Plassey" owningBoard="Map" useGridLocation="false" x="3948" y="1658">
-                    <VASSAL.build.widget.PieceSlot entryName="No Flag" gpid="1343" height="64" width="75">+/null/prototype;Flag_India	PROP;OldFlag;true,1,4,false;:66\,130:P\,{Flag},:70\,130:P\,{Flag},:85\,130:P\,{Flag},:82\,130:P\,{Flag};\	PROP;Flag;true,1,4,false;British Flag:66\,130:P\,2,French Flag:70\,130:P\,3,USA Flag:85\,130:P\,4,Remove Flag:82\,130:P\,1;\\	prototype;Cotton\\\	piece;;;Map Space.png;/	3\	3\\	\\\	null;0;0;1343;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.module.map.SetupStack location="Chandernagore (Territory)" name="" owningBoard="Map" useGridLocation="true" x="4164" y="1845">
+                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="2177" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_India\	prototype;Territory\\	piece;;;;/3	\	\\	null;0;0;2177;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Kanchipuram Market [2]" name="Kanchipuram" owningBoard="Map" useGridLocation="false" x="3624" y="2629">
-                    <VASSAL.build.widget.PieceSlot entryName="No Flag" gpid="1344" height="64" width="75">+/null/prototype;Flag_India	PROP;OldFlag;true,1,4,false;:66\,130:P\,{Flag},:70\,130:P\,{Flag},:85\,130:P\,{Flag},:82\,130:P\,{Flag};\	PROP;Flag;true,1,4,false;British Flag:66\,130:P\,2,French Flag:70\,130:P\,3,USA Flag:85\,130:P\,4,Remove Flag:82\,130:P\,1;\\	prototype;Spice\\\	piece;;;Map Space.png;/	2\	2\\	\\\	null;0;0;1344;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.module.map.SetupStack location="Kanchipuram (Spice: 2)" name="" owningBoard="Map" useGridLocation="true" x="3624" y="2633">
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="1344" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_India\	prototype;Spice\\	prototype;Market\\\	piece;;;;/2	\	\\	\\\	null;0;0;1344;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Madras Territory [1]" name="Madras" owningBoard="Map" useGridLocation="false" x="3993" y="2519">
-                    <VASSAL.build.widget.PieceSlot entryName="No Flag" gpid="1345" height="64" width="75">+/null/hideCmd;No Conflict on Forts;Hide;;57402\,0\,Conflict	prototype;Flag_India\	PROP;OldFlag;true,1,4,false;:66\,130:P\,{Flag},:70\,130:P\,{Flag},:85\,130:P\,{Flag},:82\,130:P\,{Flag};\\	PROP;Flag;true,1,4,false;British Flag:66\,130:P\,2,French Flag:70\,130:P\,3,USA Flag:85\,130:P\,4,Remove Flag:82\,130:P\,1;\\\	piece;;;Map Space.png;/	\	2\\	2\\\	null;0;0;1345;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.module.map.SetupStack location="Midnapore (Cotton: 3)" name="" owningBoard="Map" useGridLocation="true" x="3814" y="2154">
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2178" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_India\	prototype;Cotton\\	prototype;Market\\\	piece;;;;/2	\	\\	\\\	null;0;0;2178;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Calcutta Territory [1]" name="Calcutta" owningBoard="Map" useGridLocation="false" x="4226" y="2290">
-                    <VASSAL.build.widget.PieceSlot entryName="No Flag" gpid="1346" height="64" width="75">+/null/hideCmd;No Conflict on Forts;Hide;;57402\,0\,Conflict	prototype;Flag_India\	PROP;OldFlag;true,1,4,false;:66\,130:P\,{Flag},:70\,130:P\,{Flag},:85\,130:P\,{Flag},:82\,130:P\,{Flag};\\	PROP;Flag;true,1,4,false;British Flag:66\,130:P\,2,French Flag:70\,130:P\,3,USA Flag:85\,130:P\,4,Remove Flag:82\,130:P\,1;\\\	piece;;;Map Space.png;/	\	2\\	2\\\	null;0;0;1346;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.module.map.SetupStack location="Madras (Territory)" name="" owningBoard="Map" useGridLocation="true" x="3994" y="2529">
+                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="1345" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_India\	prototype;Territory\\	piece;;;;/2	\	\\	null;0;0;1345;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Midnapore Market [3]" name="Midnapore" owningBoard="Map" useGridLocation="false" x="3815" y="2150">
-                    <VASSAL.build.widget.PieceSlot entryName="No Flag" gpid="1347" height="64" width="75">+/null/prototype;Flag_India	PROP;OldFlag;true,1,4,false;:66\,130:P\,{Flag},:70\,130:P\,{Flag},:85\,130:P\,{Flag},:82\,130:P\,{Flag};\	PROP;Flag;true,1,4,false;British Flag:66\,130:P\,2,French Flag:70\,130:P\,3,USA Flag:85\,130:P\,4,Remove Flag:82\,130:P\,1;\\	prototype;Cotton\\\	piece;;;Map Space.png;/	2\	2\\	\\\	null;0;0;1347;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.module.map.SetupStack location="Calcutta (Territory)" name="" owningBoard="Map" useGridLocation="true" x="4223" y="2295">
+                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="2179" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_India\	prototype;Territory\\	piece;;;;/2	\	\\	null;0;0;2179;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Vandavasi Fort [4]" name="Vandavasi" owningBoard="Map" useGridLocation="false" x="3585" y="2913">
-                    <VASSAL.build.widget.PieceSlot entryName="No Flag" gpid="1348" height="64" width="75">+/null/prototype;Flag_AWI2	prototype;Flag_7YW2\	prototype;Flag_WAS3\\	prototype;Fort\\\	prototype;Flag_India\\\\	PROP;OldFlag;true,1,4,false;:66\,130:P\,{Flag},:70\,130:P\,{Flag},:85\,130:P\,{Flag},:82\,130:P\,{Flag};\\\\\	PROP;Flag;true,1,4,false;British Flag:66\,130:P\,2,French Flag:70\,130:P\,3,USA Flag:85\,130:P\,4,Remove Flag:82\,130:P\,1;\\\\\\	piece;;;Map Space.png;/	\	\\	\\\	\\\\	1\\\\\	1\\\\\\	null;0;0;1348;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.module.map.SetupStack location="Vandavasi (Fort: 4)" name="" owningBoard="Map" useGridLocation="true" x="3585" y="2915">
+                    <VASSAL.build.widget.PieceSlot entryName="Fort" gpid="1348" height="64" width="75">+/null/prototype;Flag_AWI2	prototype;Flag_7YW2\	prototype;Flag_WAS3\\	prototype;Flag_India\\\	prototype;Fort\\\\	piece;;;;/	\	\\	\\\	\\\\	null;0;0;1348;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Tiruchirappalli Market [2]" name="Tiruchirappalli" owningBoard="Map" useGridLocation="false" x="3304" y="3018">
-                    <VASSAL.build.widget.PieceSlot entryName="No Flag" gpid="1349" height="64" width="75">+/null/prototype;Flag_India	PROP;OldFlag;true,1,4,false;:66\,130:P\,{Flag},:70\,130:P\,{Flag},:85\,130:P\,{Flag},:82\,130:P\,{Flag};\	PROP;Flag;true,1,4,false;British Flag:66\,130:P\,2,French Flag:70\,130:P\,3,USA Flag:85\,130:P\,4,Remove Flag:82\,130:P\,1;\\	prototype;Spice\\\	piece;;;Map Space.png;/	1\	1\\	\\\	null;0;0;1349;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.module.map.SetupStack location="Tiruchirappalli (Spice: 2)" name="" owningBoard="Map" useGridLocation="true" x="3299" y="3020">
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="1349" height="64" width="75">+/null/prototype;Flag_India	prototype;Spice\	prototype;Market\\	piece;;;;/	\	\\	null;0;0;1349;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Mysore Political Space [2]" name="Mysore" owningBoard="Map" useGridLocation="false" x="2882" y="3049">
-                    <VASSAL.build.widget.PieceSlot entryName="No Flag" gpid="1350" height="64" width="75">+/null/prototype;Flag_India	PROP;OldFlag;true,1,4,false;:66\,130:P\,{Flag},:70\,130:P\,{Flag},:85\,130:P\,{Flag},:82\,130:P\,{Flag};\	PROP;Flag;true,1,4,false;British Flag:66\,130:P\,2,French Flag:70\,130:P\,3,USA Flag:85\,130:P\,4,Remove Flag:82\,130:P\,1;\\	piece;;;Map Space.png;/	1\	1\\	null;0;0;1350;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.module.map.SetupStack location="Malacca Route (Spice: 3)" name="" owningBoard="Map" useGridLocation="true" x="4584" y="2298">
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2180" height="64" width="75">+/null/prototype;Flag_India	prototype;Spice\	prototype;Market\\	piece;;;;/	\	\\	null;0;0;2180;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Vellore Market [2]" name="Vellore" owningBoard="Map" useGridLocation="false" x="3165" y="2491">
-                    <VASSAL.build.widget.PieceSlot entryName="No Flag" gpid="1351" height="64" width="75">+/null/prototype;Flag_India	PROP;OldFlag;true,1,4,false;:66\,130:P\,{Flag},:70\,130:P\,{Flag},:85\,130:P\,{Flag},:82\,130:P\,{Flag};\	PROP;Flag;true,1,4,false;British Flag:66\,130:P\,2,French Flag:70\,130:P\,3,USA Flag:85\,130:P\,4,Remove Flag:82\,130:P\,1;\\	prototype;Cotton\\\	piece;;;Map Space.png;/	1\	1\\	\\\	null;0;0;1351;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.module.map.SetupStack location="Mangalore (Spice: 2)" name="" owningBoard="Map" useGridLocation="true" x="2631" y="2224">
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2181" height="64" width="75">+/null/prototype;Flag_India	prototype;Spice\	prototype;Market\\	piece;;;;/	\	\\	null;0;0;2181;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Kurpa Market [2]" name="Kurpa" owningBoard="Map" useGridLocation="false" x="3191" y="2243">
-                    <VASSAL.build.widget.PieceSlot entryName="No Flag" gpid="1352" height="64" width="75">+/null/prototype;Flag_India	PROP;OldFlag;true,1,4,false;:66\,130:P\,{Flag},:70\,130:P\,{Flag},:85\,130:P\,{Flag},:82\,130:P\,{Flag};\	PROP;Flag;true,1,4,false;British Flag:66\,130:P\,2,French Flag:70\,130:P\,3,USA Flag:85\,130:P\,4,Remove Flag:82\,130:P\,1;\\	prototype;Cotton\\\	piece;;;Map Space.png;/	1\	1\\	\\\	null;0;0;1352;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.module.map.SetupStack location="Calicut (Spice: 3)" name="" owningBoard="Map" useGridLocation="true" x="2737" y="2738">
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2182" height="64" width="75">+/null/prototype;Flag_India	prototype;Spice\	prototype;Market\\	piece;;;;/	\	\\	null;0;0;2182;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Arcot Fort [2]" name="Arcot" owningBoard="Map" useGridLocation="false" x="3375" y="2397">
-                    <VASSAL.build.widget.PieceSlot entryName="No Flag" gpid="1353" height="64" width="75">+/null/prototype;Flag_AWI2	prototype;Flag_7YW2\	prototype;Flag_WAS3\\	prototype;Fort\\\	prototype;Flag_India\\\\	PROP;OldFlag;true,1,4,false;:66\,130:P\,{Flag},:70\,130:P\,{Flag},:85\,130:P\,{Flag},:82\,130:P\,{Flag};\\\\\	PROP;Flag;true,1,4,false;British Flag:66\,130:P\,2,French Flag:70\,130:P\,3,USA Flag:85\,130:P\,4,Remove Flag:82\,130:P\,1;\\\\\\	piece;;;Map Space.png;/	\	\\	\\\	\\\\	1\\\\\	1\\\\\\	null;0;0;1353;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.module.map.SetupStack location="Kurpa (Cotton: 2)" name="" owningBoard="Map" useGridLocation="true" x="3190" y="2243">
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2183" height="64" width="75">+/null/prototype;Flag_India	prototype;Cotton\	prototype;Market\\	piece;;;;/	\	\\	null;0;0;2183;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Nizam Political Space [2]" name="Nizam" owningBoard="Map" useGridLocation="false" x="2883" y="2462">
-                    <VASSAL.build.widget.PieceSlot entryName="No Flag" gpid="1354" height="64" width="75">+/null/prototype;Flag_India	PROP;OldFlag;true,1,4,false;:66\,130:P\,{Flag},:70\,130:P\,{Flag},:85\,130:P\,{Flag},:82\,130:P\,{Flag};\	PROP;Flag;true,1,4,false;British Flag:66\,130:P\,2,French Flag:70\,130:P\,3,USA Flag:85\,130:P\,4,Remove Flag:82\,130:P\,1;\\	piece;;;Map Space.png;/	1\	1\\	null;0;0;1354;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.module.map.SetupStack location="Vellore (Cotton: 2)" name="" owningBoard="Map" useGridLocation="true" x="3166" y="2492">
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2184" height="64" width="75">+/null/prototype;Flag_India	prototype;Cotton\	prototype;Market\\	piece;;;;/	\	\\	null;0;0;2184;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Calicut Market [3]" name="Calicut" owningBoard="Map" useGridLocation="false" x="2741" y="2732">
-                    <VASSAL.build.widget.PieceSlot entryName="No Flag" gpid="1355" height="64" width="75">+/null/prototype;Flag_India	PROP;OldFlag;true,1,4,false;:66\,130:P\,{Flag},:70\,130:P\,{Flag},:85\,130:P\,{Flag},:82\,130:P\,{Flag};\	PROP;Flag;true,1,4,false;British Flag:66\,130:P\,2,French Flag:70\,130:P\,3,USA Flag:85\,130:P\,4,Remove Flag:82\,130:P\,1;\\	prototype;Spice\\\	piece;;;Map Space.png;/	1\	1\\	\\\	null;0;0;1355;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.module.map.SetupStack location="West Bengal (Cotton: 2)" name="" owningBoard="Map" useGridLocation="true" x="3699" y="1798">
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2185" height="64" width="75">+/null/prototype;Flag_India	prototype;Cotton\	prototype;Market\\	piece;;;;/	\	\\	null;0;0;2185;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Mangalore Market [2]" name="Mangalore" owningBoard="Map" useGridLocation="false" x="2634" y="2220">
-                    <VASSAL.build.widget.PieceSlot entryName="No Flag" gpid="1356" height="64" width="75">+/null/prototype;Flag_India	PROP;OldFlag;true,1,4,false;:66\,130:P\,{Flag},:70\,130:P\,{Flag},:85\,130:P\,{Flag},:82\,130:P\,{Flag};\	PROP;Flag;true,1,4,false;British Flag:66\,130:P\,2,French Flag:70\,130:P\,3,USA Flag:85\,130:P\,4,Remove Flag:82\,130:P\,1;\\	prototype;Spice\\\	piece;;;Map Space.png;/	1\	1\\	\\\	null;0;0;1356;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.module.map.SetupStack location="Mysore (Local Alliance: 2)" name="" owningBoard="Map" useGridLocation="true" x="2880" y="3052">
+                    <VASSAL.build.widget.PieceSlot entryName="Local Alliance" gpid="1350" height="64" width="75">+/null/prototype;Flag_India	prototype;Local Alliance\	piece;;;;/	\	null;0;0;1350;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="West Bengal Market [2]" name="West Bengal" owningBoard="Map" useGridLocation="false" x="3700" y="1795">
-                    <VASSAL.build.widget.PieceSlot entryName="No Flag" gpid="1357" height="64" width="75">+/null/prototype;Flag_India	PROP;OldFlag;true,1,4,false;:66\,130:P\,{Flag},:70\,130:P\,{Flag},:85\,130:P\,{Flag},:82\,130:P\,{Flag};\	PROP;Flag;true,1,4,false;British Flag:66\,130:P\,2,French Flag:70\,130:P\,3,USA Flag:85\,130:P\,4,Remove Flag:82\,130:P\,1;\\	prototype;Cotton\\\	piece;;;Map Space.png;/	1\	1\\	\\\	null;0;0;1357;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.module.map.SetupStack location="Nizam (Local Alliance: 2)" name="" owningBoard="Map" useGridLocation="true" x="2880" y="2464">
+                    <VASSAL.build.widget.PieceSlot entryName="Local Alliance" gpid="2186" height="64" width="75">+/null/prototype;Flag_India	prototype;Local Alliance\	piece;;;;/	\	null;0;0;2186;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Maratha Political Space [2]" name="Maratha" owningBoard="Map" useGridLocation="false" x="3664" y="1527">
-                    <VASSAL.build.widget.PieceSlot entryName="No Flag" gpid="1358" height="64" width="75">+/null/prototype;Flag_India	PROP;OldFlag;true,1,4,false;:66\,130:P\,{Flag},:70\,130:P\,{Flag},:85\,130:P\,{Flag},:82\,130:P\,{Flag};\	PROP;Flag;true,1,4,false;British Flag:66\,130:P\,2,French Flag:70\,130:P\,3,USA Flag:85\,130:P\,4,Remove Flag:82\,130:P\,1;\\	piece;;;Map Space.png;/	1\	1\\	null;0;0;1358;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.module.map.SetupStack location="Maratha (Local Alliance: 2)" name="" owningBoard="Map" useGridLocation="true" x="3661" y="1531">
+                    <VASSAL.build.widget.PieceSlot entryName="Local Alliance" gpid="2187" height="64" width="75">+/null/prototype;Flag_India	prototype;Local Alliance\	piece;;;;/	\	null;0;0;2187;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Malacca Route Market [3]" name="Malacca Route" owningBoard="Map" useGridLocation="false" x="4585" y="2294">
-                    <VASSAL.build.widget.PieceSlot entryName="No Flag" gpid="1359" height="64" width="75">+/null/prototype;Flag_India	PROP;OldFlag;true,1,4,false;:66\,130:P\,{Flag},:70\,130:P\,{Flag},:85\,130:P\,{Flag},:82\,130:P\,{Flag};\	PROP;Flag;true,1,4,false;British Flag:66\,130:P\,2,French Flag:70\,130:P\,3,USA Flag:85\,130:P\,4,Remove Flag:82\,130:P\,1;\\	prototype;Spice\\\	piece;;;Map Space.png;/	1\	1\\	\\\	null;0;0;1359;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.module.map.SetupStack location="Arcot (Fort: 2)" name="" owningBoard="Map" useGridLocation="true" x="3376" y="2396">
+                    <VASSAL.build.widget.PieceSlot entryName="Fort" gpid="1353" height="64" width="75">+/null/prototype;Flag_AWI2	prototype;Flag_7YW2\	prototype;Flag_WAS3\\	prototype;Flag_India\\\	prototype;Fort\\\\	piece;;;;/	\	\\	\\\	\\\\	null;0;0;1353;0</VASSAL.build.widget.PieceSlot>
+                </VASSAL.build.module.map.SetupStack>
+                <VASSAL.build.module.map.SetupStack location="Malabar Coast (Naval)" name="" owningBoard="Map" useGridLocation="true" x="2574" y="2491">
+                    <VASSAL.build.widget.PieceSlot entryName="Naval Space" gpid="2188" height="64" width="75">+/null/prototype;Naval Space	piece;;;;/	null;0;0;2188;0</VASSAL.build.widget.PieceSlot>
+                </VASSAL.build.module.map.SetupStack>
+                <VASSAL.build.module.map.SetupStack location="Hooghly River (Naval)" name="" owningBoard="Map" useGridLocation="true" x="4138" y="2052">
+                    <VASSAL.build.widget.PieceSlot entryName="Naval Space" gpid="2189" height="64" width="75">+/null/prototype;Naval Space	piece;;;;/	null;0;0;2189;0</VASSAL.build.widget.PieceSlot>
+                </VASSAL.build.module.map.SetupStack>
+                <VASSAL.build.module.map.SetupStack location="Raids &amp; Incursions (Advantage)" name="" owningBoard="Map" useGridLocation="true" x="3480" y="1729">
+                    <VASSAL.build.widget.PieceSlot entryName="Advantage Space" gpid="2191" height="64" width="75">+/null/prototype;Advantage Space	piece;;;;/	null;0;0;2191;0</VASSAL.build.widget.PieceSlot>
+                </VASSAL.build.module.map.SetupStack>
+                <VASSAL.build.module.map.SetupStack location="Separatist Wars (Advantage)" name="" owningBoard="Map" useGridLocation="true" x="3054" y="2711">
+                    <VASSAL.build.widget.PieceSlot entryName="Advantage Space" gpid="2192" height="64" width="75">+/null/prototype;Advantage Space	piece;;;;/	null;0;0;2192;0</VASSAL.build.widget.PieceSlot>
+                </VASSAL.build.module.map.SetupStack>
+                <VASSAL.build.module.map.SetupStack location="Power Struggle (Advantage)" name="" owningBoard="Map" useGridLocation="true" x="3142" y="3168">
+                    <VASSAL.build.widget.PieceSlot entryName="Advantage Space" gpid="2193" height="64" width="75">+/null/prototype;Advantage Space	piece;;;;/	null;0;0;2193;0</VASSAL.build.widget.PieceSlot>
+                </VASSAL.build.module.map.SetupStack>
+                <VASSAL.build.module.map.SetupStack location="Silk (Advantage)" name="" owningBoard="Map" useGridLocation="true" x="3613" y="1982">
+                    <VASSAL.build.widget.PieceSlot entryName="Advantage Space" gpid="2194" height="64" width="75">+/null/prototype;Advantage Space	piece;;;;/	null;0;0;2194;0</VASSAL.build.widget.PieceSlot>
+                </VASSAL.build.module.map.SetupStack>
+                <VASSAL.build.module.map.SetupStack location="Textiles (Advantage)" name="" owningBoard="Map" useGridLocation="true" x="3484" y="3162">
+                    <VASSAL.build.widget.PieceSlot entryName="Advantage Space" gpid="2195" height="64" width="75">+/null/prototype;Advantage Space	piece;;;;/	null;0;0;2195;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="India Award" name="French India Flag Count" owningBoard="Map" useGridLocation="false" x="2905" y="1775">
                     <VASSAL.build.widget.PieceSlot entryName="French Flags Europe" gpid="1360" height="64" width="75">+/null/setprop;India_FR;false,0,100,false;French Flag Count (+):61\,130:I\,1,French Flag Count (-):45\,130:I\,-1;India_FR;Current Zone\/Current Map\/Module;	mark;Layer\	immob;;V;R;\\	label;;Change Label;32;255,255,255;0,0,153;c;0;c;0;c;c;$pieceName$ ($label$);Dialog;1;0;TextLabel;;false\\\	piece;;;Control_FR.png;French Flags Europe/	Map\	\\	$India_FR$\\\	null;0;0;1360;0</VASSAL.build.widget.PieceSlot>
