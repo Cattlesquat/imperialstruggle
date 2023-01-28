@@ -1037,106 +1037,106 @@
             </VASSAL.build.module.folder.MapSubFolder>
             <VASSAL.build.module.folder.MapSubFolder desc="" name="Caribbean">
                 <VASSAL.build.module.map.SetupStack location="Louisiana (Territory)" name="" owningBoard="Map" useGridLocation="true" x="729" y="1776">
-                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="1311" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_Car\	prototype;Territory\\	piece;;;;/3	\	\\	null;0;0;1311;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="1311" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Louisiana.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	mark;StartingFlag\	prototype;Flag_Car\\	prototype;Territory\\\	piece;;;;/1	3\	\\	\\\	null;0;0;1311;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Port de Paix (Sugar: 3)" name="" owningBoard="Map" useGridLocation="true" x="1405" y="2585">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="1313" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_Car\	prototype;Sugar\\	prototype;Market\\\	piece;;;;/3	\	\\	\\\	null;0;0;1313;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="1313" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Port de Paix.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	mark;StartingFlag\	prototype;Flag_Car\\	prototype;Sugar\\\	prototype;Market\\\\	piece;;;;/1	3\	\\	\\\	\\\\	null;0;0;1313;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="St. Domingue (Territory)" name="" owningBoard="Map" useGridLocation="true" x="1588" y="2585">
-                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="1314" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_Car\	prototype;Territory\\	piece;;;;/3	\	\\	null;0;0;1314;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="1314" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,St Domingue.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	mark;StartingFlag\	prototype;Flag_Car\\	prototype;Territory\\\	piece;;;;/1	3\	\\	\\\	null;0;0;1314;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Martinique (Sugar: 2)" name="" owningBoard="Map" useGridLocation="true" x="2048" y="2975">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="1315" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_Car\	prototype;Sugar\\	prototype;Market\\\	piece;;;;/3	\	\\	\\\	null;0;0;1315;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="1315" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Martinique.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	mark;StartingFlag\	prototype;Flag_Car\\	prototype;Sugar\\\	prototype;Market\\\\	piece;;;;/1	3\	\\	\\\	\\\\	null;0;0;1315;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Guadeloupe (Territory)" name="" owningBoard="Map" useGridLocation="true" x="2257" y="2842">
-                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="1316" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_Car\	prototype;Territory\\	piece;;;;/3	\	\\	null;0;0;1316;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="1316" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Guadeloupe.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	mark;StartingFlag\	prototype;Flag_Car\\	prototype;Territory\\\	piece;;;;/1	3\	\\	\\\	null;0;0;1316;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Georgia (Tobacco: 2)" name="" owningBoard="Map" useGridLocation="true" x="1258" y="1529">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="1317" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_Car\	prototype;Tobacco\\	prototype;Market\\\	piece;;;;/2	\	\\	\\\	null;0;0;1317;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="1317" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Georgia.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	mark;StartingFlag\	prototype;Flag_Car\\	prototype;Tobacco\\\	prototype;Market\\\\	piece;;;;/1	2\	\\	\\\	\\\\	null;0;0;1317;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Carolinas (Territory)" name="" owningBoard="Map" useGridLocation="true" x="1475" y="1462">
-                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="1318" height="64" width="75">+/null/mark;StartingFlag	mark;FlagType\	prototype;Flag_Car\\	prototype;Territory\\\	piece;;;;/2	USA\	\\	\\\	null;0;0;1318;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="1318" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Carolinas.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	mark;StartingFlag\	mark;FlagType\\	prototype;Flag_Car\\\	prototype;Territory\\\\	piece;;;;/1	2\	USA\\	\\\	\\\\	null;0;0;1318;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="St. Lucia (Sugar: 2)" name="" owningBoard="Map" useGridLocation="true" x="2001" y="3181">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="1319" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_Car\	prototype;Sugar\\	prototype;Market\\\	piece;;;;/2	\	\\	\\\	null;0;0;1319;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="1319" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,St Lucia.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	mark;StartingFlag\	prototype;Flag_Car\\	prototype;Sugar\\\	prototype;Market\\\\	piece;;;;/1	2\	\\	\\\	\\\\	null;0;0;1319;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Barbados (Territory)" name="" owningBoard="Map" useGridLocation="true" x="2247" y="3152">
-                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="1320" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_Car\	prototype;Territory\\	piece;;;;/2	\	\\	null;0;0;1320;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="1320" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Barbados.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	mark;StartingFlag\	prototype;Flag_Car\\	prototype;Territory\\\	piece;;;;/1	2\	\\	\\\	null;0;0;1320;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Jamaica (Territory)" name="" owningBoard="Map" useGridLocation="true" x="984" y="2924">
-                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="1321" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_Car\	prototype;Territory\\	piece;;;;/2	\	\\	null;0;0;1321;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="1321" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Jamaica.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	mark;StartingFlag\	prototype;Flag_Car\\	prototype;Territory\\\	piece;;;;/1	2\	\\	\\\	null;0;0;1321;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="St. James (Tobacco: 2)" name="" owningBoard="Map" useGridLocation="true" x="616" y="1965">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="1322" height="64" width="75">+/null/prototype;Flag_Car	prototype;Tobacco\	prototype;Market\\	piece;;;;/	\	\\	null;0;0;1322;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="1322" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,St James.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Flag_Car\	prototype;Tobacco\\	prototype;Market\\\	piece;;;;/1	\	\\	\\\	null;0;0;1322;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Panzacola (Sugar: 3)" name="" owningBoard="Map" useGridLocation="true" x="976" y="1895">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="1323" height="64" width="75">+/null/prototype;Flag_Car	prototype;Sugar\	prototype;Market\\	piece;;;;/	\	\\	null;0;0;1323;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="1323" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Panzacola.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Flag_Car\	prototype;Sugar\\	prototype;Market\\\	piece;;;;/1	\	\\	\\\	null;0;0;1323;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="San Agustin (Territory)" name="" owningBoard="Map" useGridLocation="true" x="1210" y="1729">
-                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="1686" height="64" width="75">+/null/mark;StartingFlag	mark;FlagType\	prototype;Flag_Car\\	prototype;Territory\\\	piece;;;;/5	USA\	\\	\\\	null;0;0;1686;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="1686" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,San Agustin.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	mark;StartingFlag\	mark;FlagType\\	prototype;Flag_Car\\\	prototype;Territory\\\\	piece;;;;/1	5\	USA\\	\\\	\\\\	null;0;0;1686;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Fruit (Advantage)" name="" owningBoard="Map" useGridLocation="true" x="967" y="1643">
                     <VASSAL.build.widget.PieceSlot entryName="Advantage Space" gpid="2139" height="64" width="75">+/null/prototype;Advantage Space	piece;;;;/	null;0;0;2139;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Asiento (Territory)" name="Asiento" owningBoard="Map" useGridLocation="true" x="1642" y="1643">
-                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="1687" height="64" width="75">+/null/mark;StartingFlag	prototype;Territory\	prototype;Flag_Car\\	piece;;;;/5	\	\\	null;0;0;1687;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="1687" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Asiento.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	mark;StartingFlag\	prototype;Territory\\	prototype;Flag_Car\\\	piece;;;;/1	5\	\\	\\\	null;0;0;1687;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Slaving Contracts (Advantage)" name="" owningBoard="Map" useGridLocation="true" x="1813" y="1512">
                     <VASSAL.build.widget.PieceSlot entryName="Advantage Space" gpid="2138" height="64" width="75">+/null/prototype;Advantage Space	piece;;;;/	null;0;0;2138;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Bahamas Run North (Tobacco: 3)" name="" owningBoard="Map" useGridLocation="true" x="1501" y="1919">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="1688" height="64" width="75">+/null/prototype;Flag_Car	prototype;Tobacco\	prototype;Market\\	piece;;;;/	\	\\	null;0;0;1688;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="1688" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Bahamas Run North.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Flag_Car\	prototype;Tobacco\\	prototype;Market\\\	piece;;;;/1	\	\\	\\\	null;0;0;1688;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Bahamas Run West (Tobacco: 2)" name="" owningBoard="Map" useGridLocation="true" x="1131" y="2220">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2136" height="64" width="75">+/null/prototype;Flag_Car	prototype;Tobacco\	prototype;Market\\	piece;;;;/	\	\\	null;0;0;2136;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2136" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Bahamas Run West.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Flag_Car\	prototype;Tobacco\\	prototype;Market\\\	piece;;;;/1	\	\\	\\\	null;0;0;2136;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Bahamas Run (Naval)" owningBoard="Map" useGridLocation="true" x="1359" y="2174">
-                    <VASSAL.build.widget.PieceSlot entryName="Naval Space" gpid="2137" height="64" width="75">+/null/prototype;Naval Space	piece;;;;/	null;0;0;2137;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Naval Space" gpid="2137" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Bahamas Run.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Naval Space\	piece;;;;/1	\	null;0;0;2137;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Cuba Passage East (Tobacco: 3)" name="" owningBoard="Map" useGridLocation="true" x="951" y="2303">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2140" height="64" width="75">+/null/prototype;Flag_Car	prototype;Tobacco\	prototype;Market\\	piece;;;;/	\	\\	null;0;0;2140;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2140" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Cuba Passage East.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Flag_Car\	prototype;Tobacco\\	prototype;Market\\\	piece;;;;/1	\	\\	\\\	null;0;0;2140;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Cuba Passage (Naval)" owningBoard="Map" useGridLocation="true" x="751" y="2335">
-                    <VASSAL.build.widget.PieceSlot entryName="Naval Space" gpid="2141" height="64" width="75">+/null/prototype;Naval Space	piece;;;;/	null;0;0;2141;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Naval Space" gpid="2141" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Cuba Passage.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Naval Space\	piece;;;;/1	\	null;0;0;2141;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Caicos (Tobacco: 2)" name="" owningBoard="Map" useGridLocation="true" x="1435" y="2378">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2142" height="64" width="75">+/null/prototype;Flag_Car	prototype;Tobacco\	prototype;Market\\	piece;;;;/	\	\\	null;0;0;2142;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2142" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Caicos.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Flag_Car\	prototype;Tobacco\\	prototype;Market\\\	piece;;;;/1	\	\\	\\\	null;0;0;2142;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Havana (Sugar: 2)" name="" owningBoard="Map" useGridLocation="true" x="877" y="2514">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2144" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_Car\	prototype;Sugar\\	prototype;Market\\\	piece;;;;/5	\	\\	\\\	null;0;0;2144;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2144" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Havana.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	mark;StartingFlag\	prototype;Flag_Car\\	prototype;Sugar\\\	prototype;Market\\\\	piece;;;;/1	5\	\\	\\\	\\\\	null;0;0;2144;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Puerto Principe (Sugar: 2)" name="" owningBoard="Map" useGridLocation="true" x="1176" y="2454">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2145" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_Car\	prototype;Sugar\\	prototype;Market\\\	piece;;;;/5	\	\\	\\\	null;0;0;2145;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2145" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Puerto Principe.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	mark;StartingFlag\	prototype;Flag_Car\\	prototype;Sugar\\\	prototype;Market\\\\	piece;;;;/1	5\	\\	\\\	\\\\	null;0;0;2145;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Santiago (Sugar: 2)" name="" owningBoard="Map" useGridLocation="true" x="1194" y="2713">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2146" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_Car\	prototype;Sugar\\	prototype;Market\\\	piece;;;;/5	\	\\	\\\	null;0;0;2146;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2146" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Santiago.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	mark;StartingFlag\	prototype;Flag_Car\\	prototype;Sugar\\\	prototype;Market\\\\	piece;;;;/1	5\	\\	\\\	\\\\	null;0;0;2146;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Cayman Passage (Tobacco: 2)" name="" owningBoard="Map" useGridLocation="true" x="703" y="2808">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2147" height="64" width="75">+/null/prototype;Flag_Car	prototype;Tobacco\	prototype;Market\\	piece;;;;/	\	\\	null;0;0;2147;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2147" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Cayman Passage.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Flag_Car\	prototype;Tobacco\\	prototype;Market\\\	piece;;;;/1	\	\\	\\\	null;0;0;2147;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Puerto Rico (Sugar: 3)" name="" owningBoard="Map" useGridLocation="true" x="1786" y="2649">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2148" height="64" width="75">+/null/prototype;Flag_Car	prototype;Sugar\	prototype;Market\\	piece;;;;/	\	\\	null;0;0;2148;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2148" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Puerto Rico.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Flag_Car\	prototype;Sugar\\	prototype;Market\\\	piece;;;;/1	\	\\	\\\	null;0;0;2148;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Rum (Advantage)" name="" owningBoard="Map" useGridLocation="true" x="2051" y="2555">
                     <VASSAL.build.widget.PieceSlot entryName="Advantage Space" gpid="2156" height="64" width="75">+/null/prototype;Advantage Space	piece;;;;/	null;0;0;2156;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Antigua (Sugar: 2)" name="" owningBoard="Map" useGridLocation="true" x="1873" y="2836">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2149" height="64" width="75">+/null/prototype;Flag_Car	prototype;Sugar\	prototype;Market\\	piece;;;;/	\	\\	null;0;0;2149;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2149" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Antigua.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Flag_Car\	prototype;Sugar\\	prototype;Market\\\	piece;;;;/1	\	\\	\\\	null;0;0;2149;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Gulf of Cazones (Naval)" name="" owningBoard="Map" useGridLocation="true" x="1051" y="2600">
-                    <VASSAL.build.widget.PieceSlot entryName="Naval Space" gpid="2150" height="64" width="75">+/null/prototype;Naval Space	piece;;;;/	null;0;0;2150;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Naval Space" gpid="2150" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Gulf of Cazones.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Naval Space\	piece;;;;/1	\	null;0;0;2150;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Antilles Channel (Naval)" name="" owningBoard="Map" useGridLocation="true" x="1797" y="3065">
-                    <VASSAL.build.widget.PieceSlot entryName="Naval Space" gpid="2151" height="64" width="75">+/null/prototype;Naval Space	piece;;;;/	null;0;0;2151;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Naval Space" gpid="2151" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Antilles Channel.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Naval Space\	piece;;;;/1	\	null;0;0;2151;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Buccaneers (Local Alliance: 2)" name="" owningBoard="Map" useGridLocation="true" x="1119" y="3158">
-                    <VASSAL.build.widget.PieceSlot entryName="Local Alliance" gpid="1695" height="64" width="75">+/null/prototype;Flag_Car	prototype;Local Alliance\	piece;;;;/	\	null;0;0;1695;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Local Alliance" gpid="1695" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Buccaneers.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Flag_Car\	prototype;Local Alliance\\	piece;;;;/1	\	\\	null;0;0;1695;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Letters of Marque (Advantage)" name="" owningBoard="Map" useGridLocation="true" x="2246" y="2271">
                     <VASSAL.build.widget.PieceSlot entryName="Advantage Space" gpid="2154" height="64" width="75">+/null/prototype;Advantage Space	piece;;;;/	null;0;0;2154;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Privateers (Local Alliance: 2)" name="" owningBoard="Map" useGridLocation="true" x="1939" y="2345">
-                    <VASSAL.build.widget.PieceSlot entryName="Local Alliance" gpid="2153" height="64" width="75">+/null/prototype;Flag_Car	prototype;Local Alliance\	piece;;;;/	\	null;0;0;2153;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Local Alliance" gpid="2153" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Privateers.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Flag_Car\	prototype;Local Alliance\\	piece;;;;/1	\	\\	null;0;0;2153;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Pirate Havens (Advantage)" name="" owningBoard="Map" useGridLocation="true" x="1408" y="3183">
                     <VASSAL.build.widget.PieceSlot entryName="Advantage Space" gpid="2155" height="64" width="75">+/null/prototype;Advantage Space	piece;;;;/	null;0;0;2155;0</VASSAL.build.widget.PieceSlot>
@@ -1150,70 +1150,70 @@
             </VASSAL.build.module.folder.MapSubFolder>
             <VASSAL.build.module.folder.MapSubFolder desc="" name="India">
                 <VASSAL.build.module.map.SetupStack location="Karaikal (Cotton: 3)" name="" owningBoard="Map" useGridLocation="true" x="3942" y="3110">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="1340" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_India\	prototype;Cotton\\	prototype;Market\\\	piece;;;;/3	\	\\	\\\	null;0;0;1340;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="1340" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Karaikal.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	mark;StartingFlag\	prototype;Flag_India\\	prototype;Cotton\\\	prototype;Market\\\\	piece;;;;/1	3\	\\	\\\	\\\\	null;0;0;1340;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Plassey (Cotton: 3)" name="" owningBoard="Map" useGridLocation="true" x="3948" y="1668">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2176" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_India\	prototype;Cotton\\	prototype;Market\\\	piece;;;;/3	\	\\	\\\	null;0;0;2176;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2176" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Plassey.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	mark;StartingFlag\	prototype;Flag_India\\	prototype;Cotton\\\	prototype;Market\\\\	piece;;;;/1	3\	\\	\\\	\\\\	null;0;0;2176;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Pondicherry (Territory)" name="" owningBoard="Map" useGridLocation="true" x="3992" y="2865">
-                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="1341" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_India\	prototype;Territory\\	piece;;;;/3	\	\\	null;0;0;1341;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="1341" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Pondicherry.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	mark;StartingFlag\	prototype;Flag_India\\	prototype;Territory\\\	piece;;;;/1	3\	\\	\\\	null;0;0;1341;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Chandernagore (Territory)" name="" owningBoard="Map" useGridLocation="true" x="4166" y="1843">
-                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="2177" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_India\	prototype;Territory\\	piece;;;;/3	\	\\	null;0;0;2177;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="2177" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Chandernagore.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	mark;StartingFlag\	prototype;Flag_India\\	prototype;Territory\\\	piece;;;;/1	3\	\\	\\\	null;0;0;2177;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Kanchipuram (Spice: 2)" name="" owningBoard="Map" useGridLocation="true" x="3624" y="2639">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="1344" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_India\	prototype;Spice\\	prototype;Market\\\	piece;;;;/2	\	\\	\\\	null;0;0;1344;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="1344" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Kanchipuram.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	mark;StartingFlag\	prototype;Flag_India\\	prototype;Spice\\\	prototype;Market\\\\	piece;;;;/1	2\	\\	\\\	\\\\	null;0;0;1344;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Midnapore (Cotton: 3)" name="" owningBoard="Map" useGridLocation="true" x="3815" y="2160">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2178" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_India\	prototype;Cotton\\	prototype;Market\\\	piece;;;;/2	\	\\	\\\	null;0;0;2178;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2178" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Midnapore.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	mark;StartingFlag\	prototype;Flag_India\\	prototype;Cotton\\\	prototype;Market\\\\	piece;;;;/1	2\	\\	\\\	\\\\	null;0;0;2178;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Madras (Territory)" name="" owningBoard="Map" useGridLocation="true" x="3994" y="2525">
-                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="1345" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_India\	prototype;Territory\\	piece;;;;/2	\	\\	null;0;0;1345;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="1345" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Madras.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	mark;StartingFlag\	prototype;Flag_India\\	prototype;Territory\\\	piece;;;;/1	2\	\\	\\\	null;0;0;1345;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Calcutta (Territory)" name="" owningBoard="Map" useGridLocation="true" x="4227" y="2293">
-                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="2179" height="64" width="75">+/null/mark;StartingFlag	prototype;Flag_India\	prototype;Territory\\	piece;;;;/2	\	\\	null;0;0;2179;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Territory" gpid="2179" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Calcutta.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	mark;StartingFlag\	prototype;Flag_India\\	prototype;Territory\\\	piece;;;;/1	2\	\\	\\\	null;0;0;2179;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Vandavasi (Fort: 4)" name="" owningBoard="Map" useGridLocation="true" x="3585" y="2925">
-                    <VASSAL.build.widget.PieceSlot entryName="Fort" gpid="1348" height="64" width="75">+/null/prototype;Flag_AWI2	prototype;Flag_7YW2\	prototype;Flag_WAS3\\	prototype;Flag_India\\\	prototype;Fort\\\\	piece;;;;/	\	\\	\\\	\\\\	null;0;0;1348;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Fort" gpid="1348" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Vandavasi.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Flag_AWI2\	prototype;Flag_7YW2\\	prototype;Flag_WAS3\\\	prototype;Flag_India\\\\	prototype;Fort\\\\\	piece;;;;/1	\	\\	\\\	\\\\	\\\\\	null;0;0;1348;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Tiruchirappalli (Spice: 2)" name="" owningBoard="Map" useGridLocation="true" x="3304" y="3025">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="1349" height="64" width="75">+/null/prototype;Flag_India	prototype;Spice\	prototype;Market\\	piece;;;;/	\	\\	null;0;0;1349;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="1349" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Tiruchirappalli.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Flag_India\	prototype;Spice\\	prototype;Market\\\	piece;;;;/1	\	\\	\\\	null;0;0;1349;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Malacca Route (Spice: 3)" name="" owningBoard="Map" useGridLocation="true" x="4584" y="2304">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2180" height="64" width="75">+/null/prototype;Flag_India	prototype;Spice\	prototype;Market\\	piece;;;;/	\	\\	null;0;0;2180;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2180" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Malacca Route.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Flag_India\	prototype;Spice\\	prototype;Market\\\	piece;;;;/1	\	\\	\\\	null;0;0;2180;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Mangalore (Spice: 2)" name="" owningBoard="Map" useGridLocation="true" x="2634" y="2230">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2181" height="64" width="75">+/null/prototype;Flag_India	prototype;Spice\	prototype;Market\\	piece;;;;/	\	\\	null;0;0;2181;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2181" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Mangalore.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Flag_India\	prototype;Spice\\	prototype;Market\\\	piece;;;;/1	\	\\	\\\	null;0;0;2181;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Calicut (Spice: 3)" name="" owningBoard="Map" useGridLocation="true" x="2741" y="2741">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2182" height="64" width="75">+/null/prototype;Flag_India	prototype;Spice\	prototype;Market\\	piece;;;;/	\	\\	null;0;0;2182;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2182" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Calicut.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Flag_India\	prototype;Spice\\	prototype;Market\\\	piece;;;;/1	\	\\	\\\	null;0;0;2182;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Kurpa (Cotton: 2)" name="" owningBoard="Map" useGridLocation="true" x="3191" y="2252">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2183" height="64" width="75">+/null/prototype;Flag_India	prototype;Cotton\	prototype;Market\\	piece;;;;/	\	\\	null;0;0;2183;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2183" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Kurpa.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Flag_India\	prototype;Cotton\\	prototype;Market\\\	piece;;;;/1	\	\\	\\\	null;0;0;2183;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Vellore (Cotton: 2)" name="" owningBoard="Map" useGridLocation="true" x="3165" y="2499">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2184" height="64" width="75">+/null/prototype;Flag_India	prototype;Cotton\	prototype;Market\\	piece;;;;/	\	\\	null;0;0;2184;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2184" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Vellore.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Flag_India\	prototype;Cotton\\	prototype;Market\\\	piece;;;;/1	\	\\	\\\	null;0;0;2184;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="West Bengal (Cotton: 2)" name="" owningBoard="Map" useGridLocation="true" x="3701" y="1802">
-                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2185" height="64" width="75">+/null/prototype;Flag_India	prototype;Cotton\	prototype;Market\\	piece;;;;/	\	\\	null;0;0;2185;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Market" gpid="2185" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,West Bengal.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Flag_India\	prototype;Cotton\\	prototype;Market\\\	piece;;;;/1	\	\\	\\\	null;0;0;2185;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Mysore (Local Alliance: 2)" name="" owningBoard="Map" useGridLocation="true" x="2882" y="3048">
-                    <VASSAL.build.widget.PieceSlot entryName="Local Alliance" gpid="1350" height="64" width="75">+/null/prototype;Flag_India	prototype;Local Alliance\	piece;;;;/	\	null;0;0;1350;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Local Alliance" gpid="1350" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Mysore.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Flag_India\	prototype;Local Alliance\\	piece;;;;/1	\	\\	null;0;0;1350;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Nizam (Local Alliance: 2)" name="" owningBoard="Map" useGridLocation="true" x="2882" y="2461">
-                    <VASSAL.build.widget.PieceSlot entryName="Local Alliance" gpid="2186" height="64" width="75">+/null/prototype;Flag_India	prototype;Local Alliance\	piece;;;;/	\	null;0;0;2186;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Local Alliance" gpid="2186" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Nizam.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Flag_India\	prototype;Local Alliance\\	piece;;;;/1	\	\\	null;0;0;2186;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Maratha (Local Alliance: 2)" name="" owningBoard="Map" useGridLocation="true" x="3663" y="1528">
-                    <VASSAL.build.widget.PieceSlot entryName="Local Alliance" gpid="2187" height="64" width="75">+/null/prototype;Flag_India	prototype;Local Alliance\	piece;;;;/	\	null;0;0;2187;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Local Alliance" gpid="2187" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Maratha.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Flag_India\	prototype;Local Alliance\\	piece;;;;/1	\	\\	null;0;0;2187;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Arcot (Fort: 2)" name="" owningBoard="Map" useGridLocation="true" x="3376" y="2408">
-                    <VASSAL.build.widget.PieceSlot entryName="Fort" gpid="1353" height="64" width="75">+/null/prototype;Flag_AWI2	prototype;Flag_7YW2\	prototype;Flag_WAS3\\	prototype;Flag_India\\\	prototype;Fort\\\\	piece;;;;/	\	\\	\\\	\\\\	null;0;0;1353;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Fort" gpid="1353" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Arcot.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Flag_AWI2\	prototype;Flag_7YW2\\	prototype;Flag_WAS3\\\	prototype;Flag_India\\\\	prototype;Fort\\\\\	piece;;;;/1	\	\\	\\\	\\\\	\\\\\	null;0;0;1353;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Malabar Coast (Naval)" name="" owningBoard="Map" useGridLocation="true" x="2574" y="2498">
-                    <VASSAL.build.widget.PieceSlot entryName="Naval Space" gpid="2188" height="64" width="75">+/null/prototype;Naval Space	piece;;;;/	null;0;0;2188;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Naval Space" gpid="2188" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Malabar Coast.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Naval Space\	piece;;;;/1	\	null;0;0;2188;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Hooghly River (Naval)" name="" owningBoard="Map" useGridLocation="true" x="4140" y="2060">
-                    <VASSAL.build.widget.PieceSlot entryName="Naval Space" gpid="2189" height="64" width="75">+/null/prototype;Naval Space	piece;;;;/	null;0;0;2189;0</VASSAL.build.widget.PieceSlot>
+                    <VASSAL.build.widget.PieceSlot entryName="Naval Space" gpid="2189" height="64" width="75">+/null/emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;,Hooghly River.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;;;Rollover;1.0	prototype;Naval Space\	piece;;;;/1	\	null;0;0;2189;0</VASSAL.build.widget.PieceSlot>
                 </VASSAL.build.module.map.SetupStack>
                 <VASSAL.build.module.map.SetupStack location="Raids &amp; Incursions (Advantage)" name="" owningBoard="Map" useGridLocation="true" x="3483" y="1723">
                     <VASSAL.build.widget.PieceSlot entryName="Advantage Space" gpid="2191" height="64" width="75">+/null/prototype;Advantage Space	piece;;;;/	null;0;0;2191;0</VASSAL.build.widget.PieceSlot>
