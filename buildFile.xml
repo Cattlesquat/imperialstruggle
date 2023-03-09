@@ -3,12 +3,16 @@
     <VASSAL.build.module.BasicCommandEncoder/>
     <VASSAL.build.module.Documentation>
         <VASSAL.build.module.documentation.AboutScreen fileName="Splash.jpg" title="About Module"/>
-        <VASSAL.build.module.documentation.HelpFile fileName="Intro.html" fileType="archive" title="Quick Start"/>
         <VASSAL.build.module.documentation.BrowserPDFFile pdfFile="Imperial Struggle 2nd Printing Rules Final Hi-Res-compressed.pdf" title="Rules"/>
         <VASSAL.build.module.documentation.BrowserPDFFile pdfFile="ImpStr_Living_Playbook_7-26-20.pdf" title="Playbook"/>
         <VASSAL.build.module.documentation.HelpFile fileName="changelist.html" fileType="archive" title="Change List for this version"/>
     </VASSAL.build.module.Documentation>
-    <VASSAL.build.module.PlayerRoster buttonIcon="Icon_User.png" buttonKeyStroke="" buttonText="" buttonToolTip="Change Sides or become an observer">
+    <VASSAL.build.module.Chatter/>
+    <VASSAL.build.module.KeyNamer/>
+    <VASSAL.build.module.ChartWindow hotkey="" icon="HowToPlay.png" name="How to Play" text="" tooltip="How to use this module">
+        <VASSAL.build.widget.HtmlChart fileName="howtoplay.html"/>
+    </VASSAL.build.module.ChartWindow>
+    <VASSAL.build.module.PlayerRoster buttonIcon="Players.png" buttonKeyStroke="" buttonText="" buttonToolTip="Change Sides or become an observer">
         <entry>Britain</entry>
         <entry>France</entry>
         <entry>Solo</entry>
@@ -27,8 +31,6 @@
         <option name="debugControlsIcon"/>
         <option name="debugControlsHotKey"/>
     </VASSAL.build.module.GlobalOptions>
-    <VASSAL.build.module.Chatter/>
-    <VASSAL.build.module.KeyNamer/>
     <VASSAL.build.module.properties.GlobalProperties>
         <VASSAL.build.module.properties.GlobalProperty description="" initialValue="15" isNumeric="true" max="100" min="-100" name="VP" wrap="false"/>
         <VASSAL.build.module.properties.GlobalProperty description="" initialValue="0" isNumeric="true" max="100" min="0" name="Debt_BR" wrap="false"/>
@@ -1477,14 +1479,14 @@
         </VASSAL.build.module.folder.MapSubFolder>
         <VASSAL.build.module.map.Flare circleColor="255,0,0" circleScale="true" circleSize="100" flareKey="keyAlt" flareName="Map Flare" flarePulses="6" flarePulsesPerSec="3" reportFormat=""/>
     </VASSAL.build.module.Map>
-    <VASSAL.build.module.PieceWindow defaultWidth="0" hidden="false" hotkey="" icon="Icon_Pieces.png" scale="1.0" text="Pieces" tooltip="Show/Hide the Pieces window">
+    <VASSAL.build.module.PieceWindow defaultWidth="0" hidden="false" hotkey="" icon="Icon_Pieces2.png" scale="1.0" text="" tooltip="Show/Hide the Pieces window">
         <VASSAL.build.widget.PanelWidget entryName="Markers" fixed="true" nColumns="5" scale="0.6" vert="false">
             <VASSAL.build.widget.PieceSlot entryName="Atlantic Dominance: Britain" gpid="495" height="55" width="64">+/null/mark;AnyWarTile	prototype;Markers\	emb2;Activate;2;;Flip;2;;;2;;;;1;false;0;0;,Markers_AtlanticDominance-FR.png;,Atlantic Dominance: France;true;Flip;;;false;;1;1;true;65,130;70,130;;;1.0\\	piece;;;Markers_AtlanticDominance-BR.png;Atlantic Dominance: Britain/Y	\	1\\	null;0;0;495;0</VASSAL.build.widget.PieceSlot>
             <VASSAL.build.widget.PieceSlot entryName="Byng" gpid="498" height="55" width="64">+/null/mark;AnyWarTile	prototype;Markers\	emb2;Activate;128;A;Flip;128;;;128;;;;1;false;0;0;,Markers_Byngb.png;,;true;Flip;;;false;;1;1;true;65,130;70,130;;;1.0\\	piece;;;Markers_Byng.png;Byng/Y	\	1\\	null;0;0;498;0</VASSAL.build.widget.PieceSlot>
             <VASSAL.build.widget.PieceSlot entryName="Conflict" gpid="499" height="55" width="64">+/null/prototype;Basic Marker	prototype;Markers\	emb2;Activate;128;A;Flip;128;;;128;;;;1;false;0;0;,Markers_Conflictb.png;,+ \+1;true;Flip;;;false;;1;1;true;65,130;70,130;;;1.0\\	piece;;;Markers_Conflict.png;Conflict/	\	1\\	null;0;0;499;1;ppScale;1.0</VASSAL.build.widget.PieceSlot>
             <VASSAL.build.widget.PieceSlot entryName="Fort Damaged" gpid="656" height="55" width="64">+/null/prototype;Basic Marker	report;67\,130;$location$: $newPieceName$ $menuCommand$;;;;false\	report;57458\,0\,ReportLocation;$DeleteLocation$: $newPieceName$ Delete;;;DeleteLocation;false\\	macro;;Repair Fort;57580,0,RepairFort;;;57458\,0\,ReportLocation,68\,130;false;;;counted;;;;false;;1;1\\\	setprop;DeleteLocation;false,0,100,false;:57458\,0\,ReportLocation:P\,{$CurrentZone$};DeleteLocation;Current Zone\/Current Map\/Module;\\\\	immob;;N;R;\\\\\	piece;;;Markers_FortDamaged.png;Fort Damaged/	-1\	-1\\	\\\	\\\\	\\\\\	null;0;0;656;1;ppScale;0.6</VASSAL.build.widget.PieceSlot>
             <VASSAL.build.widget.PanelWidget fixed="false" nColumns="3" scale="0.65" vert="false">
-                <VASSAL.build.widget.PieceSlot entryName="Exhausted" gpid="500" height="59" width="59">+/null/prototype;Basic Marker	prototype;Exhausted\	emb2;Activate;2;;Flip;2;;;2;;;;1;false;0;0;,Markers_Exhausted.png;,;true;Flip;;;false;;1;1;true;65,130;70,130;;;1.0\\	piece;;;Markers_Exhaustedb.png;Exhausted/	\	1\\	null;0;0;500;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Exhausted" gpid="500" height="59" width="59">+/null/prototype;Basic Marker	prototype;Exhausted\	emb2;Activate;2;;Flip;2;;;2;;;;1;false;0;0;,Markers_Exhausted.png;,;true;Flip;;;false;;1;1;true;65,130;70,130;;;1.0\\	piece;;;Markers_Exhaustedb.png;Exhausted/	\	1\\	null;0;0;500;3;ClickedX;0;ppScale;0.65;ClickedY;0</VASSAL.build.widget.PieceSlot>
             </VASSAL.build.widget.PanelWidget>
             <VASSAL.build.widget.PanelWidget fixed="false" nColumns="3" scale="0.65" vert="false">
                 <VASSAL.build.widget.PieceSlot entryName="Jacobite Defeat" gpid="657" height="59" width="59">+/null/prototype;Basic Marker	prototype;Markers\	emb2;Activate;2;;Flip;2;;;2;;;;1;false;0;0;,Markers_JacobiteDefeatb.png;,;true;Flip;;;false;;1;1;true;65,130;70,130;;;1.0\\	piece;;;Markers_JacobiteDefeat.png;Jacobite Defeat/	\	1\\	null;0;0;657;1;ppScale;0.65</VASSAL.build.widget.PieceSlot>
@@ -2251,7 +2253,7 @@
             <VASSAL.build.module.map.MassKeyCommand buttonHotkey="" buttonText="" canDisable="false" deckCount="-1" disabledIcon="" filter="{DeckName==&quot;FR Bonus War Tiles&quot; &amp;&amp; playerSide == &quot;France&quot;}" hotkey="82,715" icon="" name="Empty Bonus Tiles" propertyGate="" reportFormat="" reportSingle="true" singleMap="true" target="MAP|false|MAP|||||0|0||false|||EQUALS" tooltip="Returns Bonus Tiles to War Display"/>
             <VASSAL.build.module.map.Flare circleColor="255,0,0" circleScale="true" circleSize="100" flareKey="keyAlt" flareName="Map Flare" flarePulses="6" flarePulsesPerSec="3" reportFormat=""/>
         </VASSAL.build.module.PrivateMap>
-        <VASSAL.build.module.PlayerHand allowMultiple="false" backgroundcolor="255,255,255" buttonName="Hand" changeFormat="$message$" color="0,0,0" createFormat="" description="" edgeHeight="0" edgeWidth="0" hideKey="" hotkey="" icon="Icon_FR.png" launch="true" mapName="French Hand" markMoved="Never" markUnmovedHotkey="" markUnmovedIcon="/images/unmoved.gif" markUnmovedReport="" markUnmovedText="" markUnmovedTooltip="Mark all pieces on this map as not moved" moveKey="57470,0,MapCommand" moveToFormat="" moveWithinFormat="" showKey="" side="Solo,France" thickness="3" tooltip="Show/Hide" visible="false">
+        <VASSAL.build.module.PlayerHand allowMultiple="false" backgroundcolor="255,255,255" buttonName="" changeFormat="$message$" color="0,0,0" createFormat="" description="" edgeHeight="0" edgeWidth="0" hideKey="" hotkey="" icon="" launch="true" mapName="French Hand" markMoved="Never" markUnmovedHotkey="" markUnmovedIcon="/images/unmoved.gif" markUnmovedReport="" markUnmovedText="" markUnmovedTooltip="Mark all pieces on this map as not moved" moveKey="57470,0,MapCommand" moveToFormat="" moveWithinFormat="" showKey="" side="Solo,France" thickness="3" tooltip="Show/Hide" visible="false">
             <VASSAL.build.module.map.BoardPicker addColumnText="Add column" addRowText="Add row" boardPrompt="Select board" slotHeight="125" slotScale="0.2" slotWidth="350" title="Choose Boards">
                 <VASSAL.build.module.map.boardPicker.Board color="123,161,200" height="525" name="French Hand" reversible="false" width="2250">
                     <VASSAL.build.module.map.boardPicker.board.SquareGrid color="255,255,255" cornersLegal="false" dotsVisible="false" dx="375.0" dy="525.0" edgesLegal="false" range="Metric" snapTo="true" visible="true" x0="187" y0="262">
