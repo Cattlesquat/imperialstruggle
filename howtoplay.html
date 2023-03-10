@@ -78,6 +78,8 @@ still learning how to play the game itself, or just need to "look up a rule".
                     <h3 style="font-size:22px">4. Conflict Markers</h3>
           <p style="font-size:18px;">You can right+click on any space (or flag) to add a conflict marker to it, or to remove one if already present. Conflict markers will correctly update the flag counts 
           for regions and wars to account for the Conflict marker's effect on scoring, wars, etc. Note that conflict markers are automatically removed when control of the space changes (flagged, unflagged, etc).
+          When the Game Turn marker is moved into a War turn space, all conflicts used in that war are automatically marked "Used in War". When the Game Turn marker is moved from a War turn space to a peace
+          turn space, all conflicts currently marked "Used in War" are automatically removed.
 
 <br><br> <br><img src="HowConflict.png">&nbsp;&nbsp;<img src="HowConflict2.png">
 <br><br>
@@ -120,9 +122,11 @@ still learning how to play the game itself, or just need to "look up a rule".
 
           <h3 style="font-size:22px">10. End of Turn</h3>
           <p style="font-size:18px;">When a turn is complete and you have finished scoring, the Game Turn marker can be dragged to the next appropriate space--or if you click to select the marker, the Ctrl+ and Ctrl- hotkeys
-          become available to adjust it.
+          become available to adjust it. Note that if you are about to resolve a War turn, it is recommended that you move the Game Turn marker into the appropriate War turn space, as this will cause all
+          of the Conflicts used in that war to be automatically marked "Used in War". When the Game Turn marker is then moved onward to the next peace turn, the "Used in War" Conflict markers will automatically be
+          removed.
 
-          <br><br> <img src="HowTurn.png"><br><br>
+          <br><br> <img src="HowTurn.png">&nbsp;&nbsp;<img src="HowTurn2.png"><br><br>
 
           <h3 style="font-size:22px">11. Wars</h3>
           <p style="font-size:18px;">(a)Each of the four War buttons on the main toolbar opens a window displaying the mat for the corresponding war.
@@ -140,9 +144,11 @@ still learning how to play the game itself, or just need to "look up a rule".
           <br><br><img src="HowWar.png"><br><br>
 
           <h3 style="font-size:22px">12. Starting the Next Peace Turn</h3>
-          <p style="font-size:18px;">(a) When a new peace turn starts--either following War resolution or when moving from turn 2 to turn 3, one player should again click the
+          <p style="font-size:18px;">(a) When a new peace turn starts--either following War resolution or when moving from turn 2 to turn 3, one player should advance the Game Turn marker and then again click the
           Deal Awards button followed by the Deal Investment Tiles buttons on the main toolbar. Then, click the Reset button to remove any Exhausted markers on advantages and
-          Ministers, and if a war was just completed, you can click the Remove Conflict button to remove any Conflict markers you have marked as "used in War".
+          Ministers, and if a war was just completed, you can click the Remove Conflict button to remove any Conflict markers you have marked as "Used in War" (note that if you
+          previously moved the Game Turn marker into the War's triangular space on the turn track, the Conflict markers relevant to that War will already have been automatically
+          marked "Used in War", and when you then advance the Game Turn marker to the next peace turn all "Used in War" Conflict markers will automatically be removed. 
           <br><br>(b) Next, if it is turn 3 or turn 5, add four to each player's Debt Limit, and right-click the new Event Card deck for the new age and select the "Shuffle into Events Deck" option.
           <br><br>(c) Each player draws 3 new event cards.
           <br><br>(d) If it is Turn 3 or Turn 5, players select new Ministers -- return the current ministers from your player mat either by right-clicking them or dragging them back into the Ministry Window, and then
