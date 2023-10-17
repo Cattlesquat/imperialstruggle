@@ -4,7 +4,11 @@
   <extra1>1</extra1>
   <extra2>Includes Second Printing Graphics</extra2>
   <VassalVersion>3.7.3</VassalVersion>
+<<<<<<< HEAD
   <dateSaved>1697569631438</dateSaved>
+=======
+  <dateSaved>1697568972876</dateSaved>
+>>>>>>> b4ba306... Fix conflict marker removal problems when dragging a flag from space to space (big rewrite of FlagStatus trait)
   <description>The Global Rivalry - Britain and France - 1697-1789</description>
   <name>Imperial Struggle</name>
 </data>
